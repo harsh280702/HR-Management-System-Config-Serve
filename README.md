@@ -52,7 +52,7 @@ Copy
 mvn spring-boot:run
 Access the configuration endpoint:
 
-The server will be available at http://localhost:8888.
+The server will be available at http://localhost:8081.
 You can access configurations using the endpoint: /{application}/{profile}/{label}.
 Configuration
 All configurations are stored in the config folder within the repository. You can add or modify configuration files as needed:
